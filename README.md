@@ -29,7 +29,7 @@ Login to the Postgres Pod using the Terminal CLI provided by Openshift to create
 
 By first loging in by **psqpl** application to the database:
 
-```
+```bash
 psql -d digiwise
 ```
 
